@@ -1,0 +1,42 @@
+{
+    "port_config": {
+        "start_port": 10000,
+        "total_containers": 8,
+        "ports_per_container": 3
+    },
+    "container_config": {
+        "ssh": {
+            "port": 22,
+            "root_password": "123456"
+        },
+        "jupyter": {
+            "port": 8888,
+            "token": "123456",
+            "base_url": "/jupyter/",
+            "notebook_dir": "/root"
+        },
+        "app": {
+            "port": 8080
+        }
+    },
+    "resource_limits": {
+        "memory": "12g",
+        "cpuset_cpus": "0-3",
+        "runtime": "nvidia"
+    },
+    "persistence": {
+        "image_mapping_file": "state/container_images.json",
+        "container_state_file": "state/container_tunnels.json",
+        "auto_save": true,
+        "save_interval": 300
+    },
+    "port_range": {
+        "start": 10000,
+        "end": 60000
+    },
+    "reserved_ports": [80, 443, 22, 8080, 8888],
+    "allocation": {
+        "strategy": "random",
+        "prefer_ranges": []
+    }
+}

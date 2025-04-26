@@ -1,0 +1,14 @@
+{
+    "users": [
+        {
+            "username": "admin",
+            "password": "GPUAdmin@2024!",
+            "role": "admin"
+        }
+    ],
+    "jwt_settings": {
+        "secret_key": "ead63445bbe0202070960b032a78c5da6ac4a16a6d75bb7839479d4720ef6319",
+        "algorithm": "HS256",
+        "access_token_expire_minutes": 120
+    }
+} 

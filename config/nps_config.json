@@ -1,0 +1,16 @@
+{
+    "server": {
+        "address": "121.199.18.76",
+        "port": 8081
+    },
+    "auth": {
+        "key": "55ee6338f59c89d6ec04c9dc04a6bf0abJHSA"
+    },
+    "clients": {
+        "default_client_id": 2
+    },
+    "api": {
+        "timeout": 10,
+        "retry_count": 3
+    }
+} 

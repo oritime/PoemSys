@@ -1,0 +1,77 @@
+{
+  "current": {
+    "oc001": "ubuntu20.04-cuda12.1-jupyter:v0.2",
+    "oc002": "ubuntu20.04-cuda12.1-jupyter:v0.2",
+    "oc003": "ubuntu20.04-cuda12.1-jupyter:v0.2",
+    "oc004": "ubuntu20.04-cuda12.1-jupyter:v0.2",
+    "oc005": "ubuntu20.04-cuda12.1-jupyter:v0.2",
+    "oc006": "ubuntu20.04-cuda12.1-jupyter:v0.2",
+    "oc007": "ubuntu20.04-cuda12.1-jupyter:v0.2",
+    "oc008": "ubuntu20.04-cuda12.1-jupyter:v0.2",
+    "oc009": "ubuntu20.04-cuda12.1-jupyter:v0.2",
+    "oc010": "ubuntu20.04-cuda12.1-jupyter:v0.2",
+    "oc011": "ubuntu20.04-cuda12.1-jupyter:v0.2",
+    "oc012": "ubuntu20.04-cuda12.1-jupyter:v0.2",
+    "oc013": "ubuntu20.04-cuda12.1-jupyter:v0.2",
+    "oc014": "ubuntu20.04-cuda12.1-jupyter:v0.2",
+    "oc015": "ubuntu20.04-cuda12.1-jupyter:v0.2",
+    "oc016": "ubuntu20.04-cuda12.1-jupyter:v0.2",
+    "oc017": "ubuntu20.04-cuda12.1-jupyter:v0.2"
+  },
+  "history": {
+    "oc001": [
+      "ubuntu20.04-cuda12.1-jupyter:v0.2",
+      "ubuntu20.04-cuda12.1-jupyter:v0.2",
+      "ubuntu20.04-cuda12.1-jupyter:v0.2"
+    ],
+    "oc002": [
+      "ubuntu20.04-cuda12.1-jupyter:v0.2"
+    ],
+    "oc003": [
+      "ubuntu20.04-cuda12.1-jupyter:v0.2"
+    ],
+    "oc004": [
+      "ubuntu20.04-cuda12.1-jupyter:v0.2"
+    ],
+    "oc005": [
+      "ubuntu20.04-cuda12.1-jupyter:v0.2"
+    ],
+    "oc006": [
+      "ubuntu20.04-cuda12.1-jupyter:v0.2"
+    ],
+    "oc007": [
+      "ubuntu20.04-cuda12.1-jupyter:v0.2"
+    ],
+    "oc008": [
+      "ubuntu20.04-cuda12.1-jupyter:v0.2"
+    ],
+    "oc009": [
+      "ubuntu20.04-cuda12.1-jupyter:v0.2"
+    ],
+    "oc010": [
+      "ubuntu20.04-cuda12.1-jupyter:v0.2"
+    ],
+    "oc011": [
+      "ubuntu20.04-cuda12.1-jupyter:v0.2"
+    ],
+    "oc012": [
+      "ubuntu20.04-cuda12.1-jupyter:v0.2"
+    ],
+    "oc013": [
+      "ubuntu20.04-cuda12.1-jupyter:v0.2"
+    ],
+    "oc014": [
+      "ubuntu20.04-cuda12.1-jupyter:v0.2"
+    ],
+    "oc015": [
+      "ubuntu20.04-cuda12.1-jupyter:v0.2",
+      "ubuntu20.04-cuda12.1-jupyter:v0.2"
+    ],
+    "oc016": [
+      "ubuntu20.04-cuda12.1-jupyter:v0.2"
+    ],
+    "oc017": [
+      "ubuntu20.04-cuda12.1-jupyter:v0.2"
+    ]
+  }
+}

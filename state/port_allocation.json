@@ -1,0 +1,132 @@
+{
+    "10000": {
+        "service": "ssh",
+        "allocated_time": 1744637832,
+        "client_id": 2
+    },
+    "10002": {
+        "service": "http",
+        "allocated_time": 1744637832,
+        "client_id": 2
+    },
+    "10863": {
+        "service": "ssh",
+        "allocated_time": 1744649304,
+        "client_id": 2
+    },
+    "14211": {
+        "service": "jupyter",
+        "allocated_time": 1744649304,
+        "client_id": 2
+    },
+    "18770": {
+        "service": "app",
+        "allocated_time": 1744649304,
+        "client_id": 2
+    },
+    "15260": {
+        "service": "ssh",
+        "allocated_time": 1744733172,
+        "client_id": 2
+    },
+    "16132": {
+        "service": "jupyter",
+        "allocated_time": 1744733172,
+        "client_id": 2
+    },
+    "15154": {
+        "service": "app",
+        "allocated_time": 1744733172,
+        "client_id": 2
+    },
+    "16923": {
+        "service": "ssh",
+        "allocated_time": 1744733801,
+        "client_id": 2
+    },
+    "10091": {
+        "service": "jupyter",
+        "allocated_time": 1744733801,
+        "client_id": 2
+    },
+    "17732": {
+        "service": "app",
+        "allocated_time": 1744733801,
+        "client_id": 2
+    },
+    "12844": {
+        "service": "ssh",
+        "allocated_time": 1744734135,
+        "client_id": 2
+    },
+    "13337": {
+        "service": "jupyter",
+        "allocated_time": 1744734135,
+        "client_id": 2
+    },
+    "16486": {
+        "service": "app",
+        "allocated_time": 1744734135,
+        "client_id": 2
+    },
+    "11357": {
+        "service": "ssh",
+        "allocated_time": 1744735010,
+        "client_id": 2
+    },
+    "19263": {
+        "service": "jupyter",
+        "allocated_time": 1744735010,
+        "client_id": 2
+    },
+    "14150": {
+        "service": "app",
+        "allocated_time": 1744735010,
+        "client_id": 2
+    },
+    "17104": {
+        "service": "ssh",
+        "allocated_time": 1745585437,
+        "client_id": 2
+    },
+    "14242": {
+        "service": "jupyter",
+        "allocated_time": 1745585438,
+        "client_id": 2
+    },
+    "12977": {
+        "service": "app",
+        "allocated_time": 1745585438,
+        "client_id": 2
+    },
+    "12417": {
+        "service": "ssh",
+        "allocated_time": 1745585568,
+        "client_id": 2
+    },
+    "13249": {
+        "service": "jupyter",
+        "allocated_time": 1745585568,
+        "client_id": 2
+    },
+    "18146": {
+        "service": "app",
+        "allocated_time": 1745585569,
+        "client_id": 2
+    },
+    "13774": {
+        "service": "ssh",
+        "allocated_time": 1745646497,
+        "client_id": 2
+    },
+    "17070": {
+        "service": "jupyter",
+        "allocated_time": 1745646497,
+        "client_id": 2
+    },
+    "16057": {
+        "service": "app",
+        "allocated_time": 1745646497,
+        "client_id": 2
+    }
+}
