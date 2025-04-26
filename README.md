@@ -1,4 +1,4 @@
-# 诗云PoemSys 1.0 - Docker 容器管理系统
+# 诗云PoemSys - Docker 容器管理系统
 
 PoemSys 是一个基于 Python 的 Docker 容器生命周期管理系统，集成了 NPS（NProxy Server）动态隧道管理功能，专为 AI/ML 研发环境设计。系统提供完整的 RESTful API 接口，支持容器的创建、启动、停止、删除以及快照管理等核心功能。
 
